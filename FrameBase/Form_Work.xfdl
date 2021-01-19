@@ -8,6 +8,7 @@
         <CheckBox id="CheckBox00" taborder="2" text="CheckBox00" left="216" top="24" width="210" height="81"/>
       </Layout>
     </Layouts>
-    <Script type="xscript5.1"><![CDATA[this.test = 0;]]></Script>
+    <Script type="xscript5.1"><![CDATA[this.test = 0;
+this.test2 = 0;]]></Script>
   </Form>
 </FDL>
