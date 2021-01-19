@@ -2,7 +2,9 @@
 <FDL version="2.1">
   <Form id="Form_Top" width="1280" height="50" titletext="Form_Top">
     <Layouts>
-      <Layout width="1280" height="50" screenid="Desktop_screen"/>
+      <Layout width="1280" height="50" screenid="Desktop_screen">
+        <Radio id="Radio00" taborder="0" left="110" top="12" width="134" height="22"/>
+      </Layout>
     </Layouts>
   </Form>
 </FDL>
