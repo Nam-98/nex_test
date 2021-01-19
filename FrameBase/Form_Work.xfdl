@@ -4,6 +4,7 @@
     <Layouts>
       <Layout width="1080" height="670" screenid="Desktop_screen">
         <Div id="Div00" taborder="0" text="Div00" left="68" top="84" width="102" height="68"/>
+        <Spin id="Spin00" taborder="1" left="314" top="149" width="242" height="39"/>
       </Layout>
     </Layouts>
   </Form>
